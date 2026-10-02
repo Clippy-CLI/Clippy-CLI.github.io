@@ -1,3 +1,0 @@
-Importing "my" gameboy emulator that i edited a bit from one made by Alexaldren 
-I basically just changed the html because it didn't work very well for my screen
-I also made the controls more comfortable.
